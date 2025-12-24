@@ -1,10 +1,10 @@
 .day {
   display: flex;
-  border: 10px solid blue; 
+  border: 10px solid skyblue; 
 }
 .day div {
   flex-grow: 1; 
   text-align: center; 
   padding: 15px 0; 
-  border-right: 10px solid blue; 
+  border-right: 10px solid skyblue; 
 }
